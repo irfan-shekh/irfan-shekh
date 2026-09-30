@@ -80,14 +80,6 @@ A Python-based application designed to provide health and fitness-related functi
 
 ---
 
-### 🎵 Music Player
-
-A music player application developed to provide a simple and interactive music-listening experience.
-
-**Tech:** JavaScript • HTML • CSS
-
----
-
 ## 📚 What I'm Learning
 
 * 🤖 Machine Learning & Deep Learning
@@ -113,9 +105,9 @@ A music player application developed to provide a simple and interactive music-l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=irfan-shekh&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shekh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -123,10 +115,9 @@ A music player application developed to provide a simple and interactive music-l
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** [Add your LinkedIn profile]
-* 📧 **Email:** [Add your email]
-* 🌐 **Portfolio:** [Add your portfolio]
-* 📄 **Resume:** [Add your resume]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/irfan-shekh]
+* 📧 **Email:** [irfanshekh2695@gmail.com]
+* 🌐 **Portfolio:** [irfanshekh.vercel.app]
 
 ---
 
