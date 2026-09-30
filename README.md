@@ -62,18 +62,7 @@ I enjoy turning **raw data into meaningful insights** and building **AI-powered,
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
  
-
-### 📊 IPL Analytics & Power BI Dashboard
-
-An interactive Power BI dashboard for analyzing IPL team and player performance, including **Orange Cap, Purple Cap, runs, wickets, boundaries, team performance and points table**.
-
-**Tech Stack:**  
-`Power BI` `DAX` `Data Analysis` `Data Visualization`
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
