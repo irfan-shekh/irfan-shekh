@@ -2,91 +2,120 @@
 
 ### 💻 Computer Science & Engineering Graduate | Data Science | AI/ML | Full-Stack Development
 
-I’m a Computer Science and Engineering graduate passionate about **Data Science, Artificial Intelligence, Machine Learning, Business Intelligence, and Full-Stack Development**.
+I'm a Computer Science and Engineering graduate passionate about **Data Science, Artificial Intelligence, Machine Learning, Business Intelligence, and Full-Stack Development**.
 
-I enjoy transforming **raw data into meaningful insights** and building **AI-powered, data-driven applications** that solve real-world problems.
+I enjoy turning **raw data into meaningful insights** and building **AI-powered, data-driven applications** that solve real-world problems.
 
-* 🔭 Currently working on **Data Science, AI/ML & Full-Stack projects**
-* 🌱 Continuously learning **Machine Learning, Generative AI & modern web technologies**
-* 📊 Interested in **Data Analytics, Business Intelligence & Predictive Modeling**
-* 💡 Passionate about building practical, real-world solutions
-* 🎯 Career interests: **Data Scientist | AI/ML Engineer | Software Developer**
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science & Engineering Graduate
+- 📊 Interested in **Data Science, Data Analytics & Business Intelligence**
+- 🤖 Exploring **Machine Learning, Deep Learning & Generative AI**
+- 🌐 Building modern **Full-Stack Web Applications**
+- 🧠 Interested in combining **AI + Data + Software Engineering**
+- 🔭 Currently working on projects involving **Data Science, AI and Full-Stack Development**
+- 🌱 Continuously learning new technologies and improving my problem-solving skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 🐍 Programming & Data Science
 
-`Python` `SQL` `JavaScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📊 Data Science & Analytics
+### 📊 Data Visualization & Business Intelligence
 
-`Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Excel`
-
-### 📈 Business Intelligence & Visualization
-
-`Power BI` `Tableau`
-
-### 🌐 Full-Stack Development
-
-`React` `Next.js` `Node.js` `Tailwind CSS`
-
-### 🗄️ Databases & Backend
-
-`PostgreSQL` `MySQL` `SQLite` `Prisma`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 
-`Machine Learning` `Deep Learning` `Generative AI` `Google Gemini` `AI SDK`
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🌐 Full-Stack Development
 
-`Git` `GitHub` `VS Code` `Jupyter Notebook` `PyCharm` `IntelliJ IDEA`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 
----
+### 🗄️ Databases & Tools
 
-## 📚 What I'm Learning
-
-* 🤖 Machine Learning & Deep Learning
-* 🧠 Generative AI & LLM Applications
-* 📊 Advanced Data Analytics
-* 📈 Power BI & Business Intelligence
-* 🌐 Full-Stack Web Development
-* ☁️ Application Deployment & Cloud Technologies
-
----
-
-## 🏆 Experience & Achievements
-
-* 🎓 Computer Science & Engineering Graduate
-* 💼 Completed hands-on training in **Full-Stack AI Development**
-* 🚀 Built AI-powered applications using **Google Gemini**
-* 🏆 Participated in the **GDG on Campus Solution Challenge powered by Hack2Skill**
-* 📊 Developed multiple **Data Analytics & Business Intelligence projects**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+ 
+
+### 📊 IPL Analytics & Power BI Dashboard
+
+An interactive Power BI dashboard for analyzing IPL team and player performance, including **Orange Cap, Purple Cap, runs, wickets, boundaries, team performance and points table**.
+
+**Tech Stack:**  
+`Power BI` `DAX` `Data Analysis` `Data Visualization`
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfan-shekh&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=irfan-shekh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shekh&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-shekh&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
+### 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shekh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML,CSS,Jupyter%20Notebook" />
+
+</div>
+
+> **Note:** GitHub language statistics represent the code/files present in repositories. They are not a ranking of my professional skills.
+
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/irfan-shekh]
-* 📧 **Email:** [irfanshekh2695@gmail.com]
-* 🌐 **Portfolio:** [https://irfanshekh.vercel.app]
+- 🎓 Computer Science & Engineering Graduate
+- 💼 Hands-on experience in Full-Stack AI Development
+- 🤖 Built AI-powered applications using Google Gemini
+- 🏆 Participated in the GDG on Campus Solution Challenge powered by Hack2Skill
+- 📊 Built Data Analytics and Business Intelligence projects
+- 🚀 Developed full-stack applications using modern web technologies
 
 ---
 
-### 💡 "Turning data into insights, ideas into applications, and challenges into solutions."
+## 📚 Currently Learning
 
-⭐ Feel free to explore my repositories and connect with me!
+```text
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Generative AI & LLMs
+        ↓
+AI-Powered Applications
+        ↓
+Production & Deployment
