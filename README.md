@@ -46,40 +46,6 @@ I enjoy transforming **raw data into meaningful insights** and building **AI-pow
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI-Powered Landing Page Generator
-
-An AI-powered web application that generates landing pages using **Google Gemini** and modern full-stack technologies.
-
-**Tech:** Next.js • React • JavaScript • Prisma • PostgreSQL • Google Gemini • AI SDK
-
----
-
-### 📊 IPL Analytics & Dashboard
-
-An interactive **Power BI dashboard** for analyzing IPL data, including player performance, team statistics, Orange Cap, Purple Cap, and points-table insights.
-
-**Tech:** Power BI • DAX • Data Analysis • Data Visualization
-
----
-
-### 🏏 IPL Score Prediction
-
-A machine-learning/deep-learning project designed to predict IPL scores using historical match data and predictive modeling techniques.
-
-**Tech:** Python • Pandas • NumPy • Machine Learning • Deep Learning
-
----
-
-### 🏥 Personal Health & Fitness Application
-
-A Python-based application designed to provide health and fitness-related functionality through data-driven analysis.
-
-**Tech:** Python • Data Analysis
-
----
-
 ## 📚 What I'm Learning
 
 * 🤖 Machine Learning & Deep Learning
