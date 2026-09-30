@@ -117,7 +117,7 @@ A Python-based application designed to provide health and fitness-related functi
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/irfan-shekh]
 * 📧 **Email:** [irfanshekh2695@gmail.com]
-* 🌐 **Portfolio:** [irfanshekh.vercel.app]
+* 🌐 **Portfolio:** [https://irfanshekh.vercel.app]
 
 ---
 
