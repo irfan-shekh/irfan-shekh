@@ -73,18 +73,6 @@ I enjoy turning **raw data into meaningful insights** and building **AI-powered,
 
 </div>
 
-### 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shekh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML,CSS,Jupyter%20Notebook" />
-
-</div>
-
-> **Note:** GitHub language statistics represent the code/files present in repositories. They are not a ranking of my professional skills.
-
----
-
 ## 🏆 Achievements
 
 - 🎓 Computer Science & Engineering Graduate
