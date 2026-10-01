@@ -72,13 +72,6 @@ I enjoy turning **raw data into meaningful insights** and building **AI-powered,
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shekh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=HTML,CSS,Jupyter%20Notebook" width="42%" />
-
-</div>
 ## 🏆 Achievements
 
 - 🎓 Computer Science & Engineering Graduate
