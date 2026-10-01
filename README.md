@@ -64,16 +64,6 @@ I enjoy turning **raw data into meaningful insights** and building **AI-powered,
 ---
  
 ## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=irfan-shekh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-shekh&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-## 📈 GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=irfan-shekh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
