@@ -78,5 +78,6 @@ I enjoy turning **raw data into meaningful insights** and building **AI-powered,
 - 💼 Hands-on experience in Full-Stack AI Development
 - 🤖 Built AI-powered applications using Google Gemini
 - 🏆 Participated in the GDG on Campus Solution Challenge powered by Hack2Skill
+- 🏆 Participated in the Google Student Ambassador Program 
 - 📊 Built Data Analytics and Business Intelligence projects
 - 🚀 Developed full-stack applications using modern web technologies
