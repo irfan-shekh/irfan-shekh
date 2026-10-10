@@ -16,7 +16,7 @@ I enjoy turning **raw data into meaningful insights** and building **AI-powered,
 - 🌐 Building modern **Full-Stack Web Applications**
 - 🧠 Interested in combining **AI + Data + Software Engineering**
 - 🔭 Currently working on projects involving **Data Science, AI and Full-Stack Development**
--
+- 🌱 Continuously learning new technologies and improving my problem-solving skills
 
 ---
 
