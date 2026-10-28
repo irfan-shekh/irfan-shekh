@@ -1,4 +1,4 @@
-# 👋 Hi, I'm IRFAN SHEKH
+# 👋 Hi, I'm IRFAN 
 
 ### 💻 Computer Science & Engineering Graduate | Data Science | AI/ML | Full-Stack Development
 
