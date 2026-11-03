@@ -60,14 +60,15 @@ I'm a Computer Science and Engineering graduate interested in **Data Science, Ma
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-![Irfan's GitHub statistics](https://github-readme-stats.vercel.app/api?username=irfan-shekh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)
+<div align="center">
 
-![Irfan's GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=irfan-shekh&theme=tokyonight&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/irfan-shekh?label=Followers&style=for-the-badge&logo=github&color=236ad3)](https://github.com/irfan-shekh?tab=followers) [![Public repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/irfan-shekh&query=$.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=6f42c1)](https://github.com/irfan-shekh?tab=repositories)
 
-![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shekh&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=irfan-shekh&theme=tokyonight&hide_border=true)](https://github.com/irfan-shekh)
 
+</div>
 ------------------------------------------------------------------------
 
 *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
