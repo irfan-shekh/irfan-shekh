@@ -42,56 +42,6 @@ I'm a Computer Science and Engineering graduate interested in **Data Science, Ma
 
 ------------------------------------------------------------------------
 
-## 🚀 Featured Projects
-
-### 1. TicketAI — Customer Support Ticket Classification & Resolution Platform
-
-An AI-powered platform that classifies customer support tickets and helps support teams manage their resolution.
-
-- Uses a TF-IDF feature extraction pipeline with a LinearSVC-based classifier to categorize tickets.
-- Supports five categories: Billing, Complaint, General Inquiry, Returns, and Technical Support.
-- Includes an LLM- and RAG-based workflow to assist with ticket resolution.
-- Uses PostgreSQL hosted on Neon for persistent data storage.
-- Supports both administrator-led and AI-assisted ticket resolution.
-
-**Core technologies:** Python, scikit-learn, TF-IDF, LinearSVC, LLMs, RAG, PostgreSQL, Neon.
-
-**Repository:** \[Add your TicketAI repository URL\]
-
-### 2. Nationwide Demand Forecasting & Inventory Optimization
-
-A data science project focused on demand forecasting and inventory planning.
-
-- Analyzes demand patterns to support forecasting.
-- Applies predictive analysis to inform inventory planning.
-- Uses forecasting insights to support inventory optimization decisions.
-
-**Repository:** [View project on GitHub](https://github.com/irfan-shekh/Nationwide_Demand_Forecasting_and_Inventory_Optimization)
-
-### 3. Customer Lifetime Value & Churn Intelligence System
-
-A machine learning project focused on understanding customer value and identifying customers who may be at risk of churn.
-
-- Analyzes customer behavior and churn patterns.
-- Develops predictive insights to support customer retention analysis.
-- Connects customer lifetime value analysis with business decision-making.
-
-**Repository:** [View project on GitHub](https://github.com/irfan-shekh/Customer_Lifetime_Value_and_Churn_Intelligence_System)
-
-### 4. AI-Powered Landing Page Generator
-
-A full-stack application that uses AI capabilities to help generate landing-page content and experiences.
-
-- Built with React and Next.js.
-- Uses AI SDK capabilities.
-- Uses BetterAuth for authentication and Prisma ORM with Neon for data persistence.
-
-**Core technologies:** Next.js, React, JavaScript, AI SDK, BetterAuth, Prisma, Neon.
-
-**Repository:** \[Add your landing page generator repository URL\]
-
-------------------------------------------------------------------------
-
 ## 📚 Currently Learning & Exploring
 
 - Machine learning workflows and model evaluation.
@@ -117,15 +67,6 @@ A full-stack application that uses AI capabilities to help generate landing-page
 ![Irfan's GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=irfan-shekh&theme=tokyonight&hide_border=true)
 
 ![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shekh&layout=compact&theme=tokyonight&hide_border=true)
-
-------------------------------------------------------------------------
-
-## 🤝 Connect With Me
-
-- **GitHub:** [github.com/irfan-shekh](https://github.com/irfan-shekh)
-- **LinkedIn:** \[Add your LinkedIn profile URL\]
-- **Portfolio:** \[Add your portfolio website URL\]
-- **Email:** \[Add your professional email address\]
 
 ------------------------------------------------------------------------
 
