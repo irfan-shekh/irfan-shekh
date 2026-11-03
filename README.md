@@ -1,4 +1,3 @@
-::: {align="center"}
 # Hi, I'm Irfan Shekh 👋
 
 ### Computer Science & Engineering Graduate \| Data Science \| AI/ML \| Full-Stack Development
