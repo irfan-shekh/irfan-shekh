@@ -69,6 +69,5 @@ I'm a Computer Science and Engineering graduate interested in **Data Science, Ma
 [![GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=irfan-shekh&theme=tokyonight&hide_border=true)](https://github.com/irfan-shekh)
 
 </div>
-------------------------------------------------------------------------
-
+ 
 *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
