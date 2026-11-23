@@ -1,6 +1,6 @@
 # Hi, I'm Irfan Shekh 👋
 
-### Computer Science & Engineering Graduate \| Data Science \| AI/ML \| Full-Stack Developmen
+### Computer Science & Engineering Graduate \| Data Science \| AI/ML \| Full-Stack Development
 
 I enjoy turning data into meaningful insights and building AI-powered applications that solve practical problems.
 
